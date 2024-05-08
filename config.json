@@ -1,0 +1,17 @@
+{
+    "idioma": "es",
+    "rutaDocumentos": "data\\docs.tsv",
+    "rutaIndiceInvertido": "indices\\indice_invertido.pkl",
+    "rutaTerm2id": "indices\\term2id.pkl",
+    "rutaId2term": "indices\\id2term.pkl",
+    "rutaDoc2id": "indices\\doc2id.pkl",
+    "doc2term": "indices\\doc2term.pkl",
+    "rutaId2doc": "indices\\id2doc.pkl",
+    "rutakcomunes": "indices\\kcomunes.pkl",
+    "rutaPesos":"indices\\pesos.pkl",
+    "rutaIdfs":"indices\\idfs.pkl",
+    "rutaQueris":"data\\train-queries.csv",
+    "rutaResultadoQueries":"resultados\\train-output.csv",
+    "rutaContenidoTexto":"data\\docs.pkl",
+    "rutaEmbedding":"embedding\\embeddingDictionaryQA.pkl"
+}
